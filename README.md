@@ -1,2 +1,2 @@
-# animated-on-scroll
+# Animated on Scroll
 GitHub Pages
