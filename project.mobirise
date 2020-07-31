@@ -66,7 +66,8 @@
     "htmltag": "<html>",
     "uniqCompNum": 48,
     "versionPublish": "5.0.18",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "publishChangesOnly": true
   },
   "pages": {
     "index.html": {
